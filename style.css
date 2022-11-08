@@ -1,0 +1,271 @@
+body {
+    background-image: url(https://phonoteka.org/uploads/posts/2021-04/1618658424_35-phonoteka_org-p-programmnii-kod-fon-54.jpg);
+    background-color: rgb(59, 59, 59);
+}
+
+b {
+    color: brown;
+    padding: 8px;
+    margin: 12px;
+    display: inline-block;
+    font-size: xx-large;
+    font-family: 'Arial';
+    position: relative;
+    left: 820px;
+    background-color: rgba(77, 31, 31, 0.619);
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px 14px rgba(77, 31, 31, 0.819);
+}
+
+a {
+    color: brown;
+    padding: 9px;
+    margin: 14px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    box-shadow: 0px 1px 15px 9px rgba(107, 30, 30, 0.477);
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:rgba(109, 24, 24, 0.502);
+    position: relative;
+    top: 185px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+#bg1 {
+    background-color: rgba(0, 0, 0, 0.571);
+    position: relative;
+    bottom: 220px;
+    left: 610px;
+    width: 640px;
+    height: 480px;
+    border-radius: 20px;
+    padding: 45px;
+    font: 23px 'Ben Krush';
+    color: rgb(149, 0, 0);   
+}
+
+.buy {
+    color: brown;
+    padding: 9px;
+    margin: 14px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    box-shadow: 0px 1px 15px 9px rgba(107, 30, 30, 0.477);
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:rgba(109, 24, 24, 0.502);
+    position: absolute;
+    top: 790px;
+    left: 945px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+
+.info {
+    color: brown;
+    padding: 9px;
+    margin: 14px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    box-shadow: 0px 1px 15px 9px rgba(107, 30, 30, 0.477);
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:rgba(109, 24, 24, 0.502);
+    position: absolute;
+    top: 5px;
+    left: 1700px;
+}
+
+.ProfileBtn {
+    position: relative;
+    left: 550px;
+    top: 45px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+.ProfileBtn2 {
+    position: relative;
+    left: 650px;
+    top: 45px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+.ProfileBtn3 {
+    position: relative;
+    left: 750px;
+    top: 45px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+
+#bg2 {
+    background-color:rgba(0, 0, 0, 0.595);
+    position: absolute;
+    top: 445px;
+    left: 780px;
+    width: 270px;
+    height: 280px;
+    font: 18px 'Roboto';
+    color: brown;
+    padding: 48px;
+    border-radius: 18px;
+}
+
+.header {
+    background-color: rgba(80, 0, 0, 0.722);
+    box-shadow: 5px 15px 18px 9px rgb(70, 0, 0);
+    color: brown;
+    position:absolute;
+    bottom: 450px;
+    left: -85px;
+    padding: 12px;
+    width: 490px;
+    height: 35px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+
+
+.header2 {
+    background-color: rgba(80, 0, 0, 0.722);
+    box-shadow: 5px 15px 18px 9px rgb(70, 0, 0);
+    color: brown;
+    position:relative;
+    left: 610px;
+    top: 250px;
+    padding: 12px;
+    width: 630px;
+    height: 35px;
+}
+
+.img1 {
+    width: 320px;
+    position: absolute;
+    top: 620px;
+    left: 195px;
+    box-shadow: 0px 0px 52px 10px rgba(71, 15, 15, 0.829);
+    border-width: 10px;
+    border-color:black ;
+    border-radius: 8px;
+    display: inline-block;
+    animation: btn_anim 1s 0s ease ease-in-out;
+}
+
+.img2 {
+    width: 320px;
+    position: absolute;
+    top: 620px;
+    left: 595px;
+    box-shadow: 0px 0px 52px 10px rgba(71, 15, 15, 0.829);
+    border-width: 10px;
+    border-color:black ;
+    border-radius: 8px;
+    display: inline-block;
+    animation: btn_anim 1s 0s ease ease-in-out;
+}
+
+.img3 {
+    width: 320px;
+    position: absolute;
+    top: 620px;
+    left: 995px;
+    box-shadow: 0px 0px 52px 10px rgba(71, 15, 15, 0.829);
+    border-width: 10px;
+    border-color:black ;
+    border-radius: 8px;
+    display: inline-block;
+    animation: btn_anim 1s 0s ease ease-in-out;
+}
+
+.img4 {
+    width: 320px;
+    position: absolute;
+    top: 620px;
+    left: 1445px;
+    box-shadow: 0px 0px 52px 10px rgba(71, 15, 15, 0.829);
+    border-width: 10px;
+    border-color:black ;
+    border-radius: 8px;
+    display: inline-block;
+    animation: btn_anim 1s 0s ease ease-in-out;
+}
+
+.buy1 {
+    color: brown;
+    padding: 9px;
+    margin: 14px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    box-shadow: 0px 1px 15px 14px rgba(74, 10, 10, 0.68);
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:rgba(83, 11, 11, 0.797);
+    position: relative;
+    top: 735px;
+    left: 275px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+
+
+.buy2 {
+    color: brown;
+    padding: 9px;
+    margin: 14px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    box-shadow: 0px 1px 15px 14px rgba(74, 10, 10, 0.68);
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:rgba(83, 11, 11, 0.797);
+    position: relative;
+    top: 735px;
+    left: 935px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+
+.buy3 {
+    color: brown;
+    padding: 9px;
+    margin: 14px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    box-shadow: 0px 1px 15px 14px rgba(74, 10, 10, 0.68);
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:rgba(83, 11, 11, 0.797);
+    position: relative;
+    top: 735px;
+    left: 1335px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+
+.buy4 {
+    color: brown;
+    padding: 9px;
+    margin: 14px;
+    display: inline-block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    box-shadow: 0px 1px 15px 14px rgba(74, 10, 10, 0.68);
+    text-decoration: none;
+    border-radius: 10px;
+    background-color:rgba(83, 11, 11, 0.797);
+    position: relative;
+    top: 735px;
+    left: 235px;
+    animation: btn_anim 1s 0s 1 ease-in-out;
+}
+
+@keyframes btn_anim {
+    0%{
+        transform: scale(0);
+    }
+
+    100%{
+        transform: scale(100deg);
+    }
+}
+.buy1:hover a{
+    transform: scale(1.1);
+}
